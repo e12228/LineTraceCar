@@ -1,4 +1,5 @@
 #include "BluetoothSerial.h"
+// Kubo
 
 //---------------------- PIN ----------------------
 // Motor
@@ -185,5 +186,3 @@ void loop()
         }
     }
 }
-
-
